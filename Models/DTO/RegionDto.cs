@@ -1,4 +1,4 @@
-﻿namespace NZWalks.API.Models.DTO
+﻿namespace NZWalks.UI.Models.DTO
 {
     public class RegionDto
     {
@@ -11,3 +11,4 @@
         public string? RegionImageUrl { get; set; }
     }
 }
+
